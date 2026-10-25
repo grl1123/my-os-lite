@@ -1,0 +1,9 @@
+# 本地恢复副本与临时文件，不作为日常档案上传
+.backups/
+*.tmp
+__pycache__/
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
